@@ -1,0 +1,7 @@
+com\apscom\aps\model\ChatMessage.class
+com\apscom\aps\controller\WebSocketEventListener.class
+com\apscom\aps\ApsApplication.class
+com\apscom\aps\controller\ChatController.class
+com\apscom\aps\ServletInitializer.class
+com\apscom\aps\config\WebSocketConfig.class
+com\apscom\aps\model\ChatMessage$MessageType.class

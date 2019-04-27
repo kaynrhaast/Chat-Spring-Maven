@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: aps
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: T-Gamer
+Implementation-Vendor-Id: com.apscom
+Build-Jdk: 1.8.0_111
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/aps
+Created-By: Maven Integration for Eclipse
+
